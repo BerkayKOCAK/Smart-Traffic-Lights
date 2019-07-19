@@ -12,4 +12,4 @@ Our approach is about calculating cars on the road and optimizing the lights on 
 ## Berkay KOÇAK 
 ## Adnan Çığtekin
 
-![alt text](https://github.com/BerkayKOCAK/Smart-Traffic-Lights/credits.jpeg)
+![Credits](Credits.png)
