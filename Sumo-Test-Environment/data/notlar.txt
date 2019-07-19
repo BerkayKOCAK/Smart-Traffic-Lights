@@ -1,0 +1,5 @@
+cross.nod.xml dosyasında bütün nodelar tanımlanmış.
+Bu dosyaya göre trafik ışığı (0,0) noktasında yer alıyor
+
+
+cross.net.xml  -> stateler bulunuyor. Satır : 179 civarı

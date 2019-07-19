@@ -1,0 +1,11 @@
+=======================OLD AI======================================
+PROPOSED SYSTEM : 265 -> 30 vec | 677 -> 100 vec | 6072 -> 1000 vec
+DEFAULT SYSTEM  : 269 -> 30 vec | 690 -> 100 vec | 5269 -> 1000 vec
+===================================================================
+
+Major 90 
+
+=======================AI 2.0======================================
+485s -> proposed
+428s -> default
+363s	-> deneme 1( 60 arabalı yol -> 1.5 dakika yeşil 0.5 dakika kırmızı. Tam tersi 30 arabalı yol için geçerli)

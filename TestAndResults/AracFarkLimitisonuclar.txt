@@ -1,0 +1,126 @@
+===========ARAÇ FARK LİMİT  SONUÇLARI===================
+
+---30 vs 300---
+
+----DEFAULT CASE----
+30 vs 300   R:  G:
+    30      2   0.5
+    300     0.5 2
+                    TOPLAM SÜRE : 1151s
+    30      0.5 2
+    300     2   0.5
+                    toplam süre : 3769s
+----PROPOSED CASE----
+30 vs 300   R:  G:
+    30      2.3  0.2
+    300     0.2 2.3
+                    toplam süre : 1142s
+
+
+---30 vs 250---
+
+---DEFAULT CASE---
+        R:  G:
+    30  2   0.5 
+    250 0.5 2
+                TOPLAM SÜRE : 953s
+
+    30  0.5 2
+    250 2   0.5
+                TOPLAM SÜRE : 3280s
+
+    
+----PROPOSED CASE----
+        R: G:
+    30  2.3 0.2
+    250 0.2 2.3
+                TOPLAM SÜRE: 925s
+
+---30 vs 260---
+
+---DEFAULT CASE---
+        R:  G:
+    30  2   0.5
+    260 0.5 2
+                TOPLAM SÜRE: 1019s
+
+    30  0.5 2
+    260 2   0.5
+                toplam süre : 3310s
+
+
+
+----PROPOSED CASE----
+        R:  G:
+    30  2.3 0.2
+    260 0.2 2.3
+                TOPLAM SÜRE: 948
+
+
+
+
+
+
+---30 vs 350---
+
+--DEFAULT CASE---
+        R:  G:
+    30  2   0.5
+    350 0.5 2
+                TOPLAM SÜRE: 1272
+    30  0.5 2
+    350 2   0.5
+                TOPLAM SÜRE : 4369s
+
+
+---PROPOSED CASE---
+        R:  G:
+    30  2.3 0.2
+    350 0.2 2.3
+                toplam süre: 1142
+
+---30 vs 400--
+
+
+--DEFAULT CASE---
+        R:  G:
+    30  2   0.5
+    400 0.5 2
+                TOPLAM SÜRE: 1473s
+    30  0.5 2
+    400 2   0.5
+                TOPLAM SÜRE : 4978s
+
+
+---PROPOSED CASE---
+        R:  G:
+    30  2.3 0.2
+    400 0.2 2.3
+                toplam süre: 1284
+
+
+
+
+
+
+---30 vs 450--
+
+
+--DEFAULT CASE---
+        R:  G:
+    30  2   0.5
+    450 0.5 2
+                TOPLAM SÜRE: 1631s
+    30  0.5 2
+    450 2   0.5
+                TOPLAM SÜRE : 5580s
+
+
+---PROPOSED CASE---
+        R:  G:
+    30  2.3 0.2
+    450 0.2 2.3
+                toplam süre: 1423
+
+
+

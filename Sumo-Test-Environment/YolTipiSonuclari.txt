@@ -1,0 +1,67 @@
+=========YOL TİPİ SONUÇLARI============
+ARAÇ SAYISI: 50
+
+Street vs Major
+===============
+
+DEFAULT:
+
+DEFAULT:
+            R:  G:
+    ST      2   0.5
+    MJ     0.5 2
+                    TOPLAM SÜRE : 834s
+    ST      0.5 2
+    MJ     2   0.5
+                    toplam süre : 357s
+
+PROPOSED:
+        R:  G:
+    St  1.5 1
+    MJ  1   1.5
+                SONUÇ : 342s
+
+
+
+Street vs Minor
+===============
+
+DEFAULT:
+
+DEFAULT:
+            R:  G:
+    ST      2   0.5
+    MN     0.5 2
+                    TOPLAM SÜRE : 826s
+    ST      0.5 2
+    MN      2   0.5
+                    toplam süre : 364s
+
+PROPOSED:
+        R:  G:
+    St  0.8 1.7
+    MN  1.7  0.8
+                SONUÇ : 343s
+
+
+
+Street vs Primary
+===============
+
+DEFAULT:
+
+DEFAULT:
+            R:  G:
+    ST      2   0.5
+    PR     0.5 2
+                    TOPLAM SÜRE : 707s
+    ST      0.5 2
+    PR     2   0.5
+                    toplam süre : 366s
+
+PROPOSED:
+        R:  G:
+    St  0.8 1.7
+    MN  1.7  0.8
+                SONUÇ : 349s
+
